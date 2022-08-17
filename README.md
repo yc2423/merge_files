@@ -12,12 +12,11 @@ Please download the program and run the program in your terminal
 ```
 pyhton merge.py <input directory name> <output file path>
 ```
-The `input directory name` needs to be a directory that already exist, and have at least one file in the directory, and please make sure the input is start with `/`. 
-The `output file path` also needs to begin with `/`.
+The `input directory name` needs to be a directory that already exist, and have at least one file in the directory.
 
 Here is an example
 ```
-python merge.py /input_dir /output_dir/result.txt
+python merge.py input_dir output_dir/result.txt
 ```
 
 ## How does it work?
